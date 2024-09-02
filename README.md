@@ -1,9 +1,13 @@
 ## hi
-What am I up to: \n
+What am I up to: 
 - 🔭 I’m currently working on:
--making a mini-malware for Mac
--planning to make a NLP/regression model on the stock market(very later) 
+
+- Making the 4th temple prophesied by high priest Terry Davis. (maybe a compiler too idk)   
+
+-I need to communicate with god so I'm creating a Language model on the bible 
+
 - 🌱 I’m currently learning:
--PYTORCH(so cool) and more machine learning concepts 
+-PyTorch(so cool) and more machine learning concepts
+
 -Assembly(why not??)
 
