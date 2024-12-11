@@ -2,12 +2,11 @@
 What am I up to: 
 - 🔭 I’m currently working on:
 
-- Making the 4th temple prophesied by high priest Terry Davis. (maybe a compiler too idk)   
+- Creating my OS
 
--I need to communicate with god so I'm creating a Language model on the bible 
+- DITTO  
 
 - 🌱 I’m currently learning:
--PyTorch(so cool) and more machine learning concepts
+-PyTorch and more machine learning concepts
 
--Assembly(why not??)
-
+-Assembly, Haskell 
